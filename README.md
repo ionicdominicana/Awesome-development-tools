@@ -3,7 +3,7 @@
 
 ## Let's go 🚀
 
-_These instructions will allow you to obtain a basic handling of the tools shown in this repository, and later on you will be able to use it in your own way, remember to leave your star⭐._
+_These instructions will allow you to obtain a basic handling of the tools shown in this repository, and later on you will be able to use it in your own way, remember to leave Your star⭐._
 
 
 
@@ -12,12 +12,12 @@ _These instructions will allow you to obtain a basic handling of the tools shown
 
 
 
-  Having a **DESIRE** to learn and follow us on our social networks and even on github What are you waiting for?
+  Having a **DESIRE** to learn and follow Us on our social networks and even on github What are You waiting for?
 * [Ionic Dominicana](https://github.com/ionicdominicana) - On github
 * [Our link tree](https://www.sublimetext.com/3) - Everything about ionic .
 
 ```
-¿Are you ready?
+Are You ready?
 ```
 
 ### [Css Tools]() 🎨
