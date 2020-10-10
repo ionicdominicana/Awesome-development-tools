@@ -68,7 +68,7 @@ _Love for all of us 🥰_
 
 * [Official Website](https://ionicdominicana.com) ⬅️
 * [Promo Codes & Events:](https://ionicdominicana.com)🎁
-* [Instagram](https://www.instagram.com/ionicdominicana/)   
+* [Instagram](http://instagram.com/IonicDominicana)   
 * [Facebook](https://www.facebook.com/IonicDominican/) 
 * [Facebook Group](https://www.facebook.com/groups/ionicdominican) 
 * [Slack](https://bit.ly/3nLfesW) 
@@ -97,8 +97,10 @@ Please read [CONTRIBUTING.md](https://github.com/ionicdominicana/Dev-sTools/blob
 * etc.
 
 
-## ¿Who was? ✒️
+## ¿Who Where? ✒️
 
 
 
 * **Daniel Patricio** - *Inicial work* - [danipv54](https://github.com/danipv54) 
+
+* **Ferdys Duran** - *Collaborator* - [Ferdysd964](https://github.com/Ferdysd964) 
