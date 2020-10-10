@@ -78,7 +78,7 @@ _Love for all of us 🥰_
 
 ## Contributing with [Ionic Dominicana](https://github.com/ionicdominicana)  🖇️
 
-Please read [CONTRIBUTING.md](https://github.com/ionicdominicana/Dev-sTools//master/CONTRIBUTING.md) to see what is necessary to collaborate with, and the process to send pull requests.
+Please read [CONTRIBUTING.md](https://github.com/ionicdominicana/Dev-sTools/blob/main/CONTRIBUTING.md) to see what is necessary to collaborate with, and the process to send pull requests.
 
  * **STAY TUNED ✔️**
  * **STAY BLESSERS 👏**
