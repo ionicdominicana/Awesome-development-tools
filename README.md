@@ -93,11 +93,11 @@ Please read [CONTRIBUTING.md](https://github.com/ionicdominicana/Dev-sTools//mas
 
 * Tell everyone 📢
 * Bring a 🍺 to somebody from the team. 
-* Do not forget saying thanks 🤓.
+* Do not forget to  say thanks 🤓.
 * etc.
 
 
-## ¿Who Whos? ✒️
+## ¿Who Was? ✒️
 
 
 
