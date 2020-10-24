@@ -3,7 +3,7 @@
 
 ## Let's go 🚀
 
-_These instructions will allow you to obtain a basic handling of the tools shown in this repository, and later on you will be able to use it in your own way, remember to leave Your star⭐._
+_These instructions will allow you to obtain a basic handling of the tools shown in this repository, and later on you will be able to use it in your own way, remember to leave your star⭐._
 
 
 
@@ -12,12 +12,12 @@ _These instructions will allow you to obtain a basic handling of the tools shown
 
 
 
-  Having a **DESIRE** to learn and follow Us on our social networks and even on github What are You waiting for?
+  Having a **DESIRE** to learn and follow us on our social networks and even on github What are you waiting for?
 * [Ionic Dominicana](https://github.com/ionicdominicana) - On github
 * [Our link tree](https://www.sublimetext.com/3) - Everything about ionic .
 
 ```
-Are You ready?
+¿Are you ready?
 ```
 
 ### [Css Tools]() 🎨
@@ -27,7 +27,7 @@ Are You ready?
 * Colors
 * Flex box
 * Shapes
-* Icons  
+
 
 
 
@@ -68,7 +68,7 @@ _Love for all of us 🥰_
 
 * [Official Website](https://ionicdominicana.com) ⬅️
 * [Promo Codes & Events:](https://ionicdominicana.com)🎁
-* [Instagram](http://instagram.com/IonicDominicana)   
+* [Instagram](https://www.instagram.com/ionicdominicana/)   
 * [Facebook](https://www.facebook.com/IonicDominican/) 
 * [Facebook Group](https://www.facebook.com/groups/ionicdominican) 
 * [Slack](https://bit.ly/3nLfesW) 
@@ -78,7 +78,7 @@ _Love for all of us 🥰_
 
 ## Contributing with [Ionic Dominicana](https://github.com/ionicdominicana)  🖇️
 
-Please read [CONTRIBUTING.md](https://github.com/ionicdominicana/Dev-sTools/blob/main/CONTRIBUTING.md) to see what is necessary to collaborate with, and the process to send pull requests.
+Please read [CONTRIBUTING.md](https://github.com/ionicdominicana/Dev-sTools//master/CONTRIBUTING.md) to see what is necessary to collaborate with, and the process to send pull requests.
 
  * **STAY TUNED ✔️**
  * **STAY BLESSERS 👏**
@@ -89,18 +89,17 @@ Please read [CONTRIBUTING.md](https://github.com/ionicdominicana/Dev-sTools/blob
 
 
 
-## Expresiones de Gratitud 🎁
+## Expressions of gratitude 🎁
 
 * Tell everyone 📢
 * Bring a 🍺 to somebody from the team. 
-* Do not forget saying thanks 🤓.
+* Do nott forget saying thanks 🤓.
 * etc.
 
 
-## ¿Who Where? ✒️
+## ¿Who Whos? ✒️
 
 
 
 * **Daniel Patricio** - *Inicial work* - [danipv54](https://github.com/danipv54) 
 
-* **Ferdys Duran** - *Collaborator* - [Ferdysd964](https://github.com/Ferdysd964) 
