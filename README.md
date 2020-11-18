@@ -16,9 +16,9 @@ _These instructions will allow you to obtain a basic handling of the tools shown
 * [Ionic Dominicana](https://github.com/ionicdominicana) - On github
 * [Our link tree](https://www.sublimetext.com/3) - Everything about ionic .
 
-```
+````
 ¿Are you ready?
-```
+````
 
 
 
@@ -38,9 +38,9 @@ _These instructions will allow you to obtain a basic handling of the tools shown
 * [Ionic Dominicana](https://github.com/ionicdominicana) - On github
 * [Our link tree](https://www.sublimetext.com/3) - Everything about ionic .
 
-```
+````
 ¿Are you ready?
-`
+````
 *************************************
 
 # Do You want anything more? Check Below 
