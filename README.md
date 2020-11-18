@@ -16,31 +16,7 @@ _These instructions will allow you to obtain a basic handling of the tools shown
 * [Ionic Dominicana](https://github.com/ionicdominicana) - On github
 * [Our link tree](https://www.sublimetext.com/3) - Everything about ionic .
 
-````
-¿Are you ready?
-````
 
-
-
-
-## Let's go 🚀
-
-_These instructions will allow you to obtain a basic handling of the tools shown in this repository, and later on you will be able to use it in your own way, remember to leave your star⭐._
-
-
-
-
-### Pre requirements 📋
-
-
-
-  Having a **DESIRE** to learn and follow us on our social networks and even on github What are you waiting for?
-* [Ionic Dominicana](https://github.com/ionicdominicana) - On github
-* [Our link tree](https://www.sublimetext.com/3) - Everything about ionic .
-
-````
-¿Are you ready?
-````
 *************************************
 
 # Do You want anything more? Check Below 
