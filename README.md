@@ -17,9 +17,7 @@ _These instructions will allow you to obtain a basic handling of the tools shown
 * [Our link tree](https://www.sublimetext.com/3) - Everything about ionic .
 
 
-*************************************
 
-# Do You want anything more? Check Below 
 
 
 ### [Css Tools](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/CssTools.md) 🎨 
