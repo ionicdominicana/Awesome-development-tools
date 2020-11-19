@@ -12,8 +12,10 @@ This documentation exists in spanish click here  [Spanish version](https://githu
 
 ```
 Are You ready?
-```
 
+#### Select  anything You want 👇 
+```
+### [🔙 Go back](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/ides.md)
 
 ## TEXT EDITING BEGINNER
 ********
@@ -187,7 +189,7 @@ If you want more, here You Can download any version
 * [Shortcuts Linux ](https://sublime-text-unofficial-documentation.readthedocs.io/en/sublime-text-2/reference/keyboard_shortcuts_win.html)
 
 *************************************
-
+### [🔙 Go back](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/ides.md)
 # Do You want anything more? Check Below 
 
 
@@ -214,11 +216,11 @@ If you want more, here You Can download any version
 ### [Browser](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Browsers/browsers.md) 
 
 **About:**
-* [Extensions]()  ``Comming Soon``
-* [ShortCuts]()  ``Comming Soon``
-* [Why should I use this one?]()  ``Comming Soon``
-* [Chrome Dev Tools]() ``Comming Soon``
-* [Firefox Developer]() ``Comming Soon``
+* Extensions  ``Comming Soon``
+* ShortCuts  ``Comming Soon``
+* Why should I use this one?  ``Comming Soon``
+* Chrome Dev Tools] ``Comming Soon``
+* Firefox Developer ``Comming Soon``
 
 
 ### [Icon and Images](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/CssTools.md) ``Ready``
