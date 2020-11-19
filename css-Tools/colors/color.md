@@ -42,33 +42,33 @@ Are You ready?
 
 #### UI gradients
 _This page helps us to create gradient colors, in an easy way for our projects.  let see how it works_:
-<!-- ![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master//basico-html/Capture3.PNG)  -->
+
 
 ```
 When We get onto the pages, We will see all of this.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/uigradients/color2.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/uigradients/color2.PNG) 
 ```
 Here We can copy grandients colors just clicking on. 
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/uigradients/colors1.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/uigradients/colors1.PNG) 
 Here We see something like a arrow,  if We click on, We can change the gradient for another one, that's defined in this page. let's click. 
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/uigradients/color3.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/uigradients/color3.PNG) 
 
 ```
 As a result of clicking on the arrow, We can see the changes.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/uigradients/color4.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/uigradients/color4.PNG) 
 ```
 At the top of the page We have many things for example: hamburger menu  
 if We click on, It opens a new section to see what combination of gradients are.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/uigradients/menu.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/uigradients/menu.PNG) 
 
 
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/uigradients/color6.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/uigradients/color6.PNG) 
 
 ```
 At the top of the page, to be precise at  the right side   There are some icons
@@ -76,12 +76,12 @@ You may wonder what are those actions.
 ```
  **beginning to the left side**
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/uigradients/color7.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/uigradients/color7.PNG) 
 * Rotate Gradiente
 * Get css Code
 * Add   gradients
 * Get a image with the set gradient colors
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/uigradients/css-code.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/uigradients/css-code.PNG)
 ***********************************************
 
 #### Colorzilla
@@ -89,43 +89,43 @@ You may wonder what are those actions.
  First look at  Colorzilla  
 ```
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colorzilla/Capture1.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/colorzilla/Capture1.PNG) 
 
 ```
 Here We can select our gradient colors and see a preview of what We selected.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colorzilla/Capture2.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/colorzilla/Capture2.PNG) 
 ``` 
 A different between colorzilla  and UI gradient is:  You can save
  Your favorite palette gradient. It's shown in the next image:
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colorzilla/Capture3.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/colorzilla/Capture3.PNG) 
 ```
 if We look at the preview side, We can notice that We can change the orientation
 of our gradients and also the size, You may make It to be supported for another browser.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colorzilla/Capture4.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/colorzilla/Capture4.PNG) 
 ```
 You can change the (Opacities | Location | Saturation) to be more  precise in what You want.
 ```
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colorzilla/Capture6.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/colorzilla/Capture6.PNG) 
 ```
 Having the possibility to choose Your color format.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colorzilla/Capture8.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/colorzilla/Capture8.PNG) 
 
 ```
 After You finish with all,  just copy what You have created. 
 ```
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colorzilla/Capture7.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/colorzilla/Capture7.PNG) 
 
 ##### Important !!!!
 ```
 Check the compatibility. 
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colorzilla/Capture9.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/colorzilla/Capture9.PNG) 
 
 ******************************************
 
@@ -135,21 +135,21 @@ Check the compatibility.
 ```
  First look at  Coolors  
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/coolors/Capture1.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/coolors/Capture1.PNG) 
 ```
  Click on start The generator  
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/coolors/Capture2.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/coolors/Capture2.PNG) 
 ```
 After clicking this button, We are goint to be redirect to this section. Here There are some colors in a
 pallet, if We see over the first color There is a menu:
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/coolors/Capture3.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/coolors/Capture3.PNG) 
 ```
    The menu has many options:
 ```
  
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/coolors/Capture11.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/coolors/Capture11.PNG) 
 * Remove color
 * View Shades
 * Save color to favorite
@@ -160,23 +160,23 @@ pallet, if We see over the first color There is a menu:
 ```
  There is a button which is for adding more colors to the palette.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/coolors/Capture4.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/coolors/Capture4.PNG) 
 ```
    When You click on, shows It.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/coolors/Capture5.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/coolors/Capture5.PNG) 
 ```
     After Selecting any number from the menu, It will add more color to the palette.
     It depends on where You click on, It means if You click on the red color
     more color with the same tonality will be adapted.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/coolors/Capture6.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/coolors/Capture6.PNG) 
 
 
 ```
    There are more options, You should check:
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/coolors/Capture7.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/coolors/Capture7.PNG) 
 
    *  Create a  palette from photo
    *  Create a collage
@@ -192,15 +192,15 @@ pallet, if We see over the first color There is a menu:
    Inside Color blindness, There many options You can choose. 
 ```
  
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/coolors/Capture8.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/coolors/Capture8.PNG) 
 ```
    Inside Adjust palette, There many options You can choose.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/coolors/Capture9.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/coolors/Capture9.PNG) 
 ```
  After You finish with all, You can select how You want to export You palette.   
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/coolors/Capture10.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/coolors/Capture10.PNG) 
 ******************************************
 
 
@@ -214,12 +214,12 @@ pallet, if We see over the first color There is a menu:
  This helps us to use the correct background color and text color.
  Keeping mind: It uses (HEXADECIMAL CSS COLORS).
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colorable/Capture1.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/colorable/Capture1.PNG) 
 
 ```
  You can modificate text using.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colorable/Capture2.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/colorable/Capture2.PNG) 
 * Hue (degree) 0 to 360
 * Saturation 0.01 to 1
 * Lightness  0.01 to 1
@@ -227,12 +227,12 @@ pallet, if We see over the first color There is a menu:
 ```
  As the text We can modificate the background.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colorable/Capture3.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/colorable/Capture3.PNG) 
 
 ```
  I changed  the color using hexadecimal css colors. 
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colorable/Capture4.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/colorable/Capture4.PNG) 
 
 
 ******************************************
@@ -244,30 +244,30 @@ pallet, if We see over the first color There is a menu:
  First look at  Colorable:
  This helps us to create our own pallet.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/adobecolor/Capture1.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/adobecolor/Capture1.PNG) 
 ```
  At the  right side, There are many options You may choose to use in Your favor.
  
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/adobecolor/Capture2.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/adobecolor/Capture2.PNG) 
 ```
  After Selecting Your Color Harmony Rule, We can select our colors. 
  
  In my case I select custom:
  
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/adobecolor/Capture3.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/adobecolor/Capture3.PNG) 
 ```
  If You want to be more precise, You can use this to set Color mode
  in this case is in RGB, but You could select another.
  
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/adobecolor/Capture4.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/adobecolor/Capture4.PNG) 
 ```
  Adobe Color Brings us the opportunity to use any  Color mode We want to use.
  
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/adobecolor/Capture5.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/adobecolor/Capture5.PNG) 
 ```
 
 We have many options to update a image and get the color pallet,
@@ -275,7 +275,7 @@ to get a gradient, ect.
 
  
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/adobecolor/Capture6.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/adobecolor/Capture6.PNG) 
 
 *******************************************
 
