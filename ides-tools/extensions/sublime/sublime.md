@@ -21,7 +21,8 @@ _These instructions Will allow You to obtain a basic handling of the tools shown
 ```
 Are You ready?
 ```
-
+ #### Select  anything You want 👇 
+  ### [🔙 Go back](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/ides.md)
 
 #   Sublime Text Extensions ⌨️
 * [Bracket HighLighter](https://bit.ly/3k9tBoq)
@@ -42,7 +43,7 @@ Bracket Highlighter matches a variety of brackets such as: [], (), {}, "", '',
 the code and have completely rewritten the entire code base to allow for a more
 flexibility, faster, and more feature rich experience.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/bracket-highlighter.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/sublime/img-ext/bracket-highlighter.png) 
 *******************************
 ####  Emmet
 ```
@@ -55,7 +56,7 @@ used with programming languages too.
 
 * [Download the CheatSheet ](https://docs.emmet.io/cheatsheet-a5.pdf)
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/emmet.gif) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/sublime/img-ext/emmet.gif) 
 *******************************
 ####  Live Reload
 ```
@@ -64,7 +65,7 @@ to see the results, LiveReload may be the perfect package for you. It enables Yo
 files with your favorite browser, so when You make changes and save them, they will display 
 instantly.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/livereload.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/sublime/img-ext/livereload.png) 
 *******************************
 ####  Todo Review
 ```
@@ -73,12 +74,12 @@ We’ll like TodoReview. In a nutshell, the package compiles lists of comments f
 projects and outputs them into a new file, like so:
 
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/todo-list1.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/sublime/img-ext/todo-list1.png) 
 ```
 The default package configuration only recognizes TODO comments. However, you can easily add new 
 patterns by modifying the package’s configuration file:
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/todo-list2.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/sublime/img-ext/todo-list2.png) 
 *******************************
 
 
@@ -94,27 +95,30 @@ simple code editor with minimal buttons, may frustrate you.
 * Linux:```ctrl + shift + c```
 * OS X:```super  + shift + c```
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/pick-the-color.jpg) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/sublime/img-ext/pick-the-color.jpg) 
 *******************************
 ####  Trimmer
 ```
 This plugin helps you remove unnecessary spaces, as well as trailing spaces, which could cause some
 errors In JavaScript.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/trimmer.gif) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/sublime/img-ext/trimmer.gif) 
 *******************************
 ####   Doc Blokr
 ```
 DocBlokr lets you create documentation or annotation for your codes with ease, by parsing 
 the functions, parameters, variables, and automatically adding some possible documentation.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/docblokr2.gif) 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/docblokr.gif) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/sublime/img-ext/docblokr2.gif) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/sublime/img-ext/docblokr.gif) 
 
 
 
 
-*************************************
+
+*******************************************
+ ### [🔙 Go back](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/ides.md)
+
 
 # Do You want anything more? Check Below 
 
@@ -142,11 +146,11 @@ the functions, parameters, variables, and automatically adding some possible doc
 ### [Browser](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Browsers/browsers.md) 
 
 **About:**
-* [Extensions]()  ``Comming Soon``
-* [ShortCuts]()  ``Comming Soon``
-* [Why should I use this one?]()  ``Comming Soon``
-* [Chrome Dev Tools]() ``Comming Soon``
-* [Firefox Developer]() ``Comming Soon``
+* Extensions  ``Comming Soon``
+* ShortCuts  ``Comming Soon``
+* Why should I use this one?  ``Comming Soon``
+* Chrome Dev Tools] ``Comming Soon``
+* Firefox Developer ``Comming Soon``
 
 
 ### [Icon and Images](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/CssTools.md) ``Ready``
