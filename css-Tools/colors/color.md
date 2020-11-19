@@ -363,7 +363,7 @@ Please read [CONTRIBUTING.md](https://github.com/ionicdominicana/Dev-sTools//mas
 * etc.
 
 
-## ¿Who Was? ✒️
+## Who Was? ✒️
 
 
 
