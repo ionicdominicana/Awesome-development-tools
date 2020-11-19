@@ -338,4 +338,10 @@ Please read [CONTRIBUTING.md](https://github.com/ionicdominicana/Dev-sTools//mas
  * **AND KEEPING GOING 🏍️**
 
 
+## Who Was? ✒️
+
+
+
+* **Daniel Patricio** - *Inicial work* - [danipv54](https://github.com/danipv54) 
+
 
