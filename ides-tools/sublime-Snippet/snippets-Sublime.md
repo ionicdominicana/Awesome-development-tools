@@ -18,6 +18,8 @@ _These instructions Will allow You to obtain a basic handling of the tools shown
 * [Ionic DominiCana](https://github.com/ionicdominiCana) - On github
 * [Our link tree](https://www.sublimetext.com/3) - Everything about Ionic DominiCan.
 
+ #### Select  anything You want 👇 
+ ### [🔙 Go back](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/ides.md)
 
 #   Snippets Sublime text
 
@@ -25,19 +27,19 @@ _These instructions Will allow You to obtain a basic handling of the tools shown
 To create our first snippet, Let's click on file, and then click on Developer
 ````
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img/1.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/sublime-Snippet/img/1.PNG)
 ````
 Then It will show up another window where We should click on new Snippets 
 ````
 
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img/2.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/sublime-Snippet/img/2.PNG)
 
 ````
 It will open a new tab with some information and also an Example
  
  ````
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img/3.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/sublime-Snippet/img/3.PNG)
 
 
 ```` 
@@ -45,46 +47,47 @@ It will open a new tab with some information and also an Example
    ```` 
 
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img/4.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/sublime-Snippet/img/4.PNG)
 
 ```
  Add the following tag  <tabTrigger> </tabTrigger>
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img/5.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/sublime-Snippet/img/5.PNG)
 
 
 
 ````
 There is a example, delete this.
 ````
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img/6.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/sublime-Snippet/img/6.PNG)
 
 ````
 Let's create our, in this case I created a html example, just introduce your snippet. 
 ````
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img/7.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/sublime-Snippet/img/7.PNG)
 
 ````
 In the image "5" We set this data, between these tags, set a name to be used as a snippet's name, in this case I use " name " 
 ````
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img/8.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/sublime-Snippet/img/8.PNG)
 
 ```` 
 Then We have to save all the changes, NOTE: We must save it with the following extension: " fileName.sublime-snippet "
 ````
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img/9.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/sublime-Snippet/img/9.PNG)
 
 ```` 
 Let's test it
 ````
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img/10.gif)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/sublime-Snippet/img/10.gif)
 
 
 
 
+*******************************************
+ ### [🔙 Go back](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/ides.md)
 
-*************************************
 
 # Do You want anything more? Check Below 
 
@@ -112,11 +115,11 @@ Let's test it
 ### [Browser](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Browsers/browsers.md) 
 
 **About:**
-* [Extensions]()  ``Comming Soon``
-* [ShortCuts]()  ``Comming Soon``
-* [Why should I use this one?]()  ``Comming Soon``
-* [Chrome Dev Tools]() ``Comming Soon``
-* [Firefox Developer]() ``Comming Soon``
+* Extensions  ``Comming Soon``
+* ShortCuts  ``Comming Soon``
+* Why should I use this one?  ``Comming Soon``
+* Chrome Dev Tools] ``Comming Soon``
+* Firefox Developer ``Comming Soon``
 
 
 ### [Icon and Images](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/CssTools.md) ``Ready``
