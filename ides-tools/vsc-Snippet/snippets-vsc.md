@@ -23,7 +23,7 @@ Are You ready?
 ```
 
  #### Select  anything You want 👇 
- ### [🔙 Go back](https://github.com/ionicdominicana/Awesome-development-tools/edit/main/ides-tools/ides.md)
+ ### [🔙 Go back](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/ides.md)
 
 #   Snippets VSC
 
