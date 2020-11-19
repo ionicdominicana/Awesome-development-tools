@@ -23,12 +23,12 @@ _These instructions Will allow You to obtain a basic handling of the tools shown
 ```
 Are You ready?
 ```
-
+  # Visual studio code
 * [Pimp Your IDE](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/vsc/vsc.md)
 * [ShortCuts](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/vsc/vsc-shortCuts.md)  
 * [Create your on snippets](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/vsc-Snippet/snippets-vsc.md) 
 
-  Sublime text
+  # Sublime text
 * [Pimp Your IDE](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/sublime/sublime.md)
 * [ShortCuts](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/sublime-text/sublime-shortCuts.md)  
 * [Create your on snippets](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/sublime-Snippet/snippets-Sublime.md) 
