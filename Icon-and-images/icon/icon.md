@@ -34,7 +34,7 @@ Are You ready?
 * [Material IO](https://material.io/resources/icons)
 * [The Noun Project](https://thenounproject.com/)
 
-
+### [🔙 Go back](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon-image.md)
 
 ### How Can I use them ? 🤔
 
@@ -48,34 +48,34 @@ to use any icon you want.  It is  easy to use! let's work.
 
 First look at  Font Awesome
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/fontawesome/Capture1.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/fontawesome/Capture1.PNG) 
 ```
 Let's click on icon to see Them 
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/fontawesome/Capture2.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/fontawesome/Capture2.PNG) 
 
 ```
 All the icons are shown in this pages. 
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/fontawesome/Capture3.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/fontawesome/Capture3.PNG) 
 
 ```
 Here We have all categories of icons. There are many free  icons and also You Can get more using the pro version.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/fontawesome/Capture4.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/fontawesome/Capture4.PNG) 
 ```
  We are going to search for a Angular icon.
 
  Just type in the search bar, what You want. In this case I wrote angular.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/fontawesome/Capture5.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/fontawesome/Capture5.PNG) 
 
 
 ```
 It Will show the matching result, as we see in the follow image:
 ```
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/fontawesome/Capture6.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/fontawesome/Capture6.PNG) 
 
 ```
 We are going to click on the Angular's icon.
@@ -84,16 +84,16 @@ We are going to click on the Angular's icon.
 Here how It looks like:
 ```
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/fontawesome/Capture7.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/fontawesome/Capture7.PNG)
 
 ```
 Also We have the posibility to change Its size, It shows all sizes It has available.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/fontawesome/Capture8.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/fontawesome/Capture8.PNG) 
 ```
 To use this icon We May click on the follow button: 
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/fontawesome/Capture11.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/fontawesome/Capture11.PNG) 
 
 ```
 After clicking the button, a  window Will show up There is a HTML element  which contain two classes that reference to  the icon We want to use.
@@ -103,14 +103,14 @@ After clicking the button, a  window Will show up There is a HTML element  which
 
 
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/fontawesome/Capture10.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/fontawesome/Capture10.PNG) 
 
 ```
 If You want..  You Can copy just clicking on.
 ```
 
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/fontawesome/Capture12.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/fontawesome/Capture12.PNG) 
 
 
 #### How Can I use it on my project?
@@ -120,7 +120,7 @@ We Must download a zip file
 [Click here to  download  ](https://bit.ly/2FoqnOZ)
 
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/fontawesome/Capture13.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/fontawesome/Capture13.PNG) 
 
 ```
 Download Using NPM  
@@ -137,11 +137,11 @@ After installing via NPM or just the zip, We Should test It, to see If all is in
 
 We Can copy this code
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/fontawesome/Capture15.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/fontawesome/Capture15.PNG) 
 ```
  At that point We Should have all of these folders, I create a file called (Index.html) We Could see It at the end of the list. 
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/fontawesome/Capture16.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/fontawesome/Capture16.PNG) 
 
 ```
 We Must have something like this:
@@ -149,7 +149,7 @@ We Must have something like this:
  to test if all is fine 
 ```
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/fontawesome/Capture17.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/fontawesome/Capture17.PNG) 
 
 ```
  Let's open our HTML file...
@@ -157,7 +157,7 @@ We Must have something like this:
   It looks like  that's everything okay ✔️
 ```
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/fontawesome/Capture18.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/fontawesome/Capture18.PNG)
 
 ***********************************************
 #### Icons 8
@@ -166,84 +166,84 @@ We Must have something like this:
  Icons 8 is a cute page, It has a big amount of icons also It has: png, svg, ect.
 ```
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/icon/Capture1.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/icon/Capture1.PNG) 
 
 ```
 Let's use this. I Typed React for this example
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/icon/Capture2.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/icon/Capture2.PNG) 
 ``` 
 It Shows Us all the results:
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/icon/Capture3.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/icon/Capture3.PNG) 
 ```
 We Can use diferents Style as We Can see, also There a caregories of icons to be more precise.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/icon/Capture4.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/icon/Capture4.PNG) 
 ```
 Clicling on the icon We like, a windows Will show up. 
 ```
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/icon/Capture5.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/icon/Capture5.PNG) 
 ```
 This window shows Us  tools, to modificate Our icon. We are able to change Its color 
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/icon/Capture6.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/icon/Capture6.PNG) 
 
 ```
 I changed the overlay
 ```
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/icon/Capture7.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/icon/Capture7.PNG) 
 
 
 ```
 We Can add a new color for the text
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/icon/Capture8.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/icon/Capture8.PNG) 
 
 ```
 Here I added a new text to Our icon
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/icon/Capture9.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/icon/Capture9.PNG) 
 ```
 There are many optios to change It 
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/icon/Capture10.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/icon/Capture10.PNG) 
 ```
 When We finish to modificate Our icon, We have to apply all the changes, then We are able to download or use It by CDN
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/icon/Capture11.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/icon/Capture11.PNG) 
 ```
 If We click download,  It shows Us a window to choose  Our format:
  
 ```
 
- ![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/icon/Capture12.png) 
+ ![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/icon/Capture12.PNG) 
 
 
 ```
 Also We Could select between diferents sizes.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/icon/Capture14.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/icon/Capture14.PNG) 
 
 ```
   On the left side There two options:
   Choose Your favorite one, I Will use CDN
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/icon/Capture13.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/icon/Capture13.PNG) 
 
 
 ```
   Let's copy the HTML code
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/icon/Capture15.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/icon/Capture15.PNG) 
 
 
 ```
   And then paste in Our IDE
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/icon/Capture16.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/icon/Capture16.PNG) 
 
 
 
@@ -251,7 +251,7 @@ Also We Could select between diferents sizes.
   It looks like  that's everything okay ✔️
 ```
  
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/icon/Capture17.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/icon/Capture17.PNG) 
 
 
 ******************************************
@@ -265,28 +265,28 @@ Also We Could select between diferents sizes.
 Here There are thousands of icons Let's see a few of them.
 
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/flaticon/Capture1.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/flaticon/Capture1.PNG) 
 
 ```
 We Can search by packs or unique icons, the last image shows Us, packs of icons Let's click on any of Them.
 
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/flaticon/Capture2.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/flaticon/Capture2.PNG) 
 
 
 ```
 Let's click on Bevereages pack icons
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/flaticon/Capture3.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/flaticon/Capture3.PNG) 
 
 ```
 Here There are many icons in this pack
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/flaticon/Capture4.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/flaticon/Capture4.PNG) 
 ```
 We Can download the whole pack if We want to.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/flaticon/Capture5.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/flaticon/Capture5.PNG) 
 
 
 ```
@@ -295,27 +295,27 @@ After click the button (Download Pack)
 This Will Appear:
 
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/flaticon/Capture6.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/flaticon/Capture6.PNG) 
 
 ```
 Going back to the principal pages, We Can search for a unique icons,
 in this case, Select *old people*
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/flaticon/Capture7.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/flaticon/Capture7.PNG) 
 ```
 Then We Could see all the icons, select the first one.   
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/flaticon/Capture8.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/flaticon/Capture8.PNG) 
 
 ```
 It Will show up the icon We have clicked
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/flaticon/Capture9.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/flaticon/Capture9.PNG) 
 ```
 Then We Can download in diffent format, 
 and sizes
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/flaticon/Capture10.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/flaticon/Capture10.PNG) 
 
 
 
@@ -327,7 +327,7 @@ and sizes
 ```
 Material IO  Was created by google, Material icons are delightful, usable products faster.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/materialio/Capture1.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/materialio/Capture1.PNG) 
 ```
 Let's scroll down to see all icons, It brings Us.
 There many icons to choose.
@@ -336,23 +336,23 @@ There many icons to choose.
 Click on the first one...
  
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/materialio/Capture2.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/materialio/Capture2.PNG) 
 ```
 At the left side There is a column, It has themes to change our icons shapes
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/materialio/Capture3.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/materialio/Capture3.PNG) 
 ```
  At the bottom side We see two options:
 Let's click on the black on.
  
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/materialio/Capture4.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/materialio/Capture4.PNG) 
 ```
 It Will open a  menu:
 
 ```
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/materialio/Capture5.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/materialio/Capture5.PNG) 
 ```
 
 In the menu There many option to changes our icon's characteristics 
@@ -361,10 +361,10 @@ In the menu There many option to changes our icon's characteristics
 * Color
 * Size
 * Format | Assets
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/materialio/Capture6.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/materialio/Capture6.PNG) 
 
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/materialio/Capture7.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/materialio/Capture7.PNG) 
 ```
  To use our icons There are 3 ways.
 
@@ -387,12 +387,12 @@ And Let's go to our IDE
 <head> Then paste the CDN in the </head>.
 ``` 
   
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/materialio/Capture8.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/materialio/Capture8.PNG) 
 ```
 <body> After pasting the CDN, paste the span inside the </body>
  
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/materialio/Capture10.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/materialio/Capture10.PNG) 
 
 ```
 Open the HTML file.....
@@ -400,7 +400,7 @@ Open the HTML file.....
 It looks like  that's everything okay ✔️
 
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/materialio/Capture9.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/materialio/Capture9.PNG) 
 
 ##### To use with:  NPM | ICONS FOLDER
 
@@ -416,24 +416,24 @@ It looks like  that's everything okay ✔️
 First look at The Noun Project
 
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/thenounproject/Capture1.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/thenounproject/Capture1.PNG) 
 
 ```
 We Can filter by Icons or photos, but in this case Let's use icons option. 
 
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/thenounproject/Capture2.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/thenounproject/Capture2.PNG) 
 ```
 I typed (cars) and It's all about.
 
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/thenounproject/Capture3.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/thenounproject/Capture3.PNG) 
 ```
 
 If click on the label that says collections, We Can see
 Icons packs.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/thenounproject/Capture4.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/thenounproject/Capture4.PNG) 
 ```
 Let's go back to the unique icons, and select the third one.
 
@@ -442,23 +442,24 @@ Let's go back to the unique icons, and select the third one.
  To get the icon just click on : Get This icon:
 
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/thenounproject/Capture5.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/thenounproject/Capture5.PNG) 
 ```
 Let's go back to the collections icons, and select Car Rims.
 
 ```
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/thenounproject/Capture4.png) 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/thenounproject/Capture6.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/thenounproject/Capture4.PNG) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/thenounproject/Capture6.PNG) 
 ```
 
 Select the third, to get one wheel from the  collections icons.
 
 To get the icon just click on: Get This icon
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/thenounproject/Capture7.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon/thenounproject/Capture7.PNG) 
 
 
+### [🔙 Go back](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon-image.md)
 *************************************
 
 # Do You want anything more? Check Below 
