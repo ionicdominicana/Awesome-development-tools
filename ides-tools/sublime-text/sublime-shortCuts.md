@@ -12,9 +12,10 @@ This documentation exists in spanish click here  [Spanish version](https://githu
 
 ```
 Are You ready?
+```
 
 #### Select  anything You want 👇 
-```
+
 ### [🔙 Go back](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/ides.md)
 
 ## TEXT EDITING BEGINNER
