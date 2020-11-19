@@ -51,19 +51,19 @@ Carbon can help you to capture your code in a picture to share with your anyone.
 ```
 We can select any theme We like there are more than 10 themes to be used
 ```
-![image](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/3.png)
+![image](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/3.PNG)
 ```
 Also We can select our programming language.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/4.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/4.PNG)
 ```
  Should This get a color? Of course!! We could choose any background-color We want. 
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/5.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/5.PNG)
 ```
 We are able to share on twitter with just click on twitter's botton
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/6.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/6.PNG)
 ```
 If We click on Export: there are 3 options
 
@@ -71,18 +71,18 @@ If We click on Export: there are 3 options
 * Size: We can set a size to capture.
 * Download: You have tha facility to get you capture as a PNG as SVG
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/7.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/7.PNG)
 ```
 There is how it look like with some code: 
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/8.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/8.PNG)
 
 
 #### Neumorphism
 ```
 Neumorphism is an inspiration into the real world.  It’s a raised shape made from the exact same material as the background.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/9.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/9.PNG)
 ```
 We can modificate by:
 
@@ -94,52 +94,52 @@ We can modificate by:
 *Shape
 To create any form We want to
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/10.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/10.PNG)
 ```
 After We Create our Neumorphism, Just copy the values  
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/11.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/11.PNG)
 
 ```
 this is a example using  Neumorphism
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/40.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/40.PNG)
 Check this 3d card using Neumorphism [3DCard](https://danipv54.github.io/3d-Card/)
 
-####Responsivator
+#### Responsivator
 ```
 The Responsinator is created to test responsive websites on different device resolutions.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/12.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/12.PNG)
 ```
 We may Select any Screen Size to test responsive of our websites,
 after setting any resolution, We click on finish
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/14.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/14.PNG)
 ```
 Then it will show us the result of our website on differebt resolutions
 ```
-![page's tab]https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/15.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/15.PNG)
 
-####Remove BG
+#### Remove BG
 ```
 Maybe some of us Have not used photosho to remove a background image, or We could not find an  png image to be  used in our webapp/mobileapp
 ```
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/16.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/16.PNG)
 ```
 Forget about using another tool for deleting background, just do it with a click
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/17.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/17.PNG)
 ```
 As simple as that. We have our image without background, just updating the image and click on remove back ground
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/18.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/18.PNG)
 ####Responsively
 ```
 It is a DevTool for all Front-End developers that will make our job easier
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/19.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/19.PNG)
 
 ```
 Athis tool allows us to see how our app look like on 4 differents screems in the same time, no matter if We click on any of them.   
@@ -149,7 +149,7 @@ Athis tool allows us to see how our app look like on 4 differents screems in the
 ```
 Also We can select web view, or any OS We want to...
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/21.Gif)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/21.gif)
 
 ```
 The tool has its own  inspert elements
@@ -160,11 +160,11 @@ The tool has its own  inspert elements
 ```
 Sometime We want to use a gif, to show something 
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/23.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/23.PNG)
 ```
 We this pages you can create your own gifs, just updating the video
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/24.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/24.PNG)
 ```
 After updating the video We can set any configuration to be set on our gif
 
@@ -179,7 +179,7 @@ After updating the video We can set any configuration to be set on our gif
   - Preserve trasparency
 
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/25.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/25.PNG)
 
 ```
 Then We can see the video description 
@@ -191,70 +191,70 @@ Then We can see the video description
 
 Also We can modificate anything from the gif, if We want to, or just click on save to finish it up.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/26.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/26.PNG)
 
 #### CSS Reference
 ```
 One of the most helpfull page to learn about css with many examples
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/27.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/27.PNG)
 
 
 ```
 We can look for a example of anything here
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/28.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/28.PNG)
 
 ```
 Let's look for box-shadow
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/29.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/29.PNG)
 
 ```
 Here We have a few examples
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/30.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/30.PNG)
 ```
 If We  scroll down there are more examples
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/31.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/31.PNG)
 #### Think With Google
 ```
 How Can We test our webapp? Well google has a tool that could help us
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/32.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/32.PNG)
 ```
 Let's use our site url, to test, in this case I used google url, click click on the arrow or press enter
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/33.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/33.PNG)
 ```
 It will take a few seconds
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/34.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/34.PNG)
 ```
 It will show us the result: 
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/35.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/35.PNG)
 
 ```
 We can see the speed of our page, to see if it's going slow or fast
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/36.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/36.PNG)
 
 ```
 Also google gives us  advice to improve our site
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/37.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/37.PNG)
 
 ```
 We can ask for a full report to see more about
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/38.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/38.PNG)
 
 ```
 It will request us some information to send the full report to our mail
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/39.png)
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/39.PNG)
 
 
 *******************************************
