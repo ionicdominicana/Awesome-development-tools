@@ -20,9 +20,7 @@ _These instructions Will allow You to obtain a basic handling of the tools shown
 
 
 #  Browser  
-```
-Are You ready?
-```
+# Comming soon
 
 
 *************************************
