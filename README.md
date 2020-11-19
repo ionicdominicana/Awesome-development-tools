@@ -50,7 +50,7 @@ _These instructions will allow you to obtain a basic handling of the tools shown
 * [Firefox Developer]() ``Comming Soon``
 
 
-### [Icon and Images](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/CssTools.md) ``Ready``
+### [Icon and Images](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Icon-and-images/icon-image.md) ``Ready``
 
 **About:**
 * SVG  
