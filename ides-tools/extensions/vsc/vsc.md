@@ -22,6 +22,8 @@ _These instructions Will allow You to obtain a basic handling of the tools shown
 Are You ready?
 ```
 
+ #### Select  anything You want 👇 
+ ### [🔙 Go back](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/ides.md)
 
 #  Visual Studio Code Extensions ⌨️
 
@@ -62,7 +64,7 @@ GitLens supercharges the Git capabilities built into Visual Studio Code. It also
 at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable 
 insights via powerful comparison commands.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/gitlens-preview.gif) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/vsc/img-ext/gitlens-preview.gif) 
 *******************************
 #### PRETTIER CODE FORMATTER
 ```
@@ -71,7 +73,7 @@ with Its own rules that take the maximum line length into account, wrapping code
 It supports many languages. It Xan be integrated with the most editor.
 ```
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/prettier.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/vsc/img-ext/prettier.png) 
 *******************************
 #### ESLINT
 
@@ -82,7 +84,7 @@ integration pipeline. ESLint fixes are syntax-aware so We Won’t experience err
 traditional find and replace algorithms.
 ```
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/ESLint.jpg) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/vsc/img-ext/ESLint.jpg) 
 *******************************
 #### QUOKKA.JS
 
@@ -93,7 +95,7 @@ testing JavaScript / TypeScript blazingly fast. By default no config is required
 file and start experimenting
 ```
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/quokka.gif) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/vsc/img-ext/quokka.gif) 
 *******************************
 #### PATH INTELLISENCE
 
@@ -102,14 +104,14 @@ It adds Intellisense-style completion to filenames, letting Us easily type long 
 It removes the file extension by default if the statement is an import statement
 ```
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/path.gif) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/vsc/img-ext/path.gif) 
 *******************************
 #### PATH AUTOCOMPLETE 
 
 ```
 This extension provides path completion for VS Code so We don’t have to memorize those long paths.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/path-autocomplete.gif) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/vsc/img-ext/path-autocomplete.gif) 
 *******************************
 #### VISUAL STUDIO INTELLICODE
 
@@ -122,7 +124,7 @@ with over 100 stars. When combined with the context of Our code, the completion 
 is tailored to promote common practices.
 ```
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/vsc.gif) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/vsc/img-ext/vsc.gif) 
 *******************************
 
 #### FILESIZE
@@ -131,7 +133,7 @@ is tailored to promote common practices.
 It displays the size of the focused file in the status bar of the editor.
 ```
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/size.jpg) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/vsc/img-ext/size.jpg) 
 *******************************
 #### LIVE SERVER
 
@@ -139,7 +141,7 @@ It displays the size of the focused file in the status bar of the editor.
 Launch a development local Server by a single click and watch live changes with some extra functionality
 ```
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/vscode-live-server-animated-demo.gif) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/vsc/img-ext/vscode-live-server-animated-demo.gif) 
 *******************************
 #### PROJECT MANAGER
 
@@ -148,7 +150,7 @@ It helps Us to easily access your projects, no matter where They are located. Do
 projects anymore.
 ```
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/vscode-project-manager-side-bar.gif) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/vsc/img-ext/vscode-project-manager-side-bar.gif) 
 *******************************
 #### CODE SPELL CHECKER
 
@@ -156,7 +158,7 @@ projects anymore.
 A simple source code spell checker for multiple programming languages.
 ```
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/spell.gif) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/vsc/img-ext/spell.gif) 
 *******************************
 #### BRACKET PAIR COLORIZER
 
@@ -165,8 +167,8 @@ This extension allows matching brackets to be identified with colors. The user C
 match, and which colors to use.
 ```
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/bracket2.png) 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/bracket.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/vsc/img-ext/bracket2.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/vsc/img-ext/img-ext/bracket.png) 
 *******************************
 #### REMOTE  SSH
 
@@ -175,7 +177,7 @@ The Remote – SSH extension lets  Us use any remote machine with an SSH server 
 environment.
 ```
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/ssh-readme.gif) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/vsc/img-ext/ssh-readme.gif) 
 *******************************
 #### CODE RUNNER
 
@@ -184,13 +186,13 @@ Code Runner is a run code snippet or code file for multiple languages. It is use
 of the currently active text editor, through the context menu of file explorer. Also, We Can run selected
 code snippets in the text editor. It supports REPL by running code in Integrated terminal
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/run.gif) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/vsc/img-ext/run.gif) 
 
 ####  REST CLIENT
 ```
 REST Client allows Us to send HTTP requests and view the response in the Visual Studio Code directly.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/rest.gif) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/vsc/img-ext//rest.gif) 
 *******************************
 
 #### BETTER COMMENTS
@@ -201,7 +203,7 @@ able to categorize your annotations into alerts, queries, TODOs, highlights, etc
 code Can also be styled to make It clear the code shouldn’t be there, and any other comment styles
 We’d like Can be specified in the settings.
 ```
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/better-comments.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/vsc/img-ext//better-comments.png) 
 *******************************
 
 
@@ -214,7 +216,7 @@ that are added dynamically, and setting breakpoints, including in source files w
 enabled.
 ```
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/chrome.gif) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/vsc/img-ext/chrome.gif) 
 *******************************
 #### MARKDOWN ALL IN ONE
 
@@ -228,7 +230,7 @@ It supports the following markdown syntax:
 * Front matter
 
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/markDown.gif) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/vsc/img-ext/markDown.gif) 
 *******************************
 #### SETTINGS SYNC
 
@@ -239,7 +241,7 @@ keywords: host, os, and env. It is easy to Upload and Download on one click. It 
 file across your machines.
 ```
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/syc.png) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/vsc/img-ext/syc.png) 
 *******************************
 #### Pola Code
 
@@ -248,7 +250,7 @@ Polacode is an extension for VSCode, which Can take screenshot of our source cod
 become same as the source code and put the source code in a smart layout.
 ```
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/polacode.gif) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/vsc/img-ext/polacode.gif) 
 *******************************
 ####  Markdown Preview Enhanced
 
@@ -260,9 +262,11 @@ writer, etc.
 A lot of Its ideas are inspired by Markdown Preview Plus and RStudio Markdown.
 ```
 
-![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/img-ext/markDown2.gif) 
+![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/vsc/img-ext/markDown2.gif) 
 
-*************************************
+*******************************************
+ ### [🔙 Go back](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/ides.md)
+
 
 # Do You want anything more? Check Below 
 
@@ -290,11 +294,11 @@ A lot of Its ideas are inspired by Markdown Preview Plus and RStudio Markdown.
 ### [Browser](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/Browsers/browsers.md) 
 
 **About:**
-* [Extensions]()  ``Comming Soon``
-* [ShortCuts]()  ``Comming Soon``
-* [Why should I use this one?]()  ``Comming Soon``
-* [Chrome Dev Tools]() ``Comming Soon``
-* [Firefox Developer]() ``Comming Soon``
+* Extensions  ``Comming Soon``
+* ShortCuts  ``Comming Soon``
+* Why should I use this one?  ``Comming Soon``
+* Chrome Dev Tools] ``Comming Soon``
+* Firefox Developer ``Comming Soon``
 
 
 ### [Icon and Images](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/CssTools.md) ``Ready``
@@ -335,18 +339,3 @@ Please read [CONTRIBUTING.md](https://github.com/ionicdominicana/Dev-sTools//mas
 
 
 
-
-
-## Expressions of gratitude 🎁
-
-* Tell everyone 📢
-* Bring a 🍺 to somebody from the team. 
-* Do nott forget saying thanks 🤓.
-* etc.
-
-
-## ¿Who Was? ✒️
-
-
-
-* **Daniel Patricio** - *Inicial work* - [danipv54](https://github.com/danipv54) 
