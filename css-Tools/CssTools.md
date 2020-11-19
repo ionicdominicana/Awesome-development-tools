@@ -19,7 +19,7 @@ _These instructions will allow you to obtain a basic handling of the tools shown
 
 
 
-[Colors](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/color.md)
+- [Colors](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/color.md) `` Ready`
 * [Grid]() `` Comming soon``
 * [Flex box]() `` Comming soon``
 * [Shapes]() `` Comming soon``
