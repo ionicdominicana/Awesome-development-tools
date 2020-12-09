@@ -30,7 +30,7 @@ Are You ready?
 
   # Sublime text
 * [Pimp Your IDE](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/extensions/sublime/sublime.md)
-* [ShortCuts](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/sublime-text/sublime-shortCuts.md)  
+* [ShortCuts](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/sublime-text/sublime-shortCuts.md)  
 * [Create your own snippets](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/ides-tools/sublime-Snippet/snippets-Sublime.md) 
 
 
