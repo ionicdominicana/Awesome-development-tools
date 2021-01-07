@@ -135,7 +135,7 @@ Forget about using another tool for deleting background, just do it with a click
 As simple as that. We have our image without background, just updating the image and click on remove back ground
 ```
 ![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/miscellaneous/img/18.PNG)
-####Responsively
+#### Responsively
 ```
 It is a DevTool for all Front-End developers that will make our job easier
 ```
