@@ -21,7 +21,7 @@ _These instructions will allow You to obtain a basic handling of the tools shown
 ```
 Are You ready?
 ```
- #### Select  anything You want 👇 
+ ### Select  anything You want 👇 
  ### [🔙 Go back](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/CssTools.md)
 
 
@@ -37,12 +37,76 @@ Are You ready?
 * [Colorable](https://colorable.jxnblk.com/)
 * [Adobe Color](https://color.adobe.com/es/create/color-wheel)
 * [Post about colors](https://www.smashingmagazine.com/2010/02/color-theory-for-designer-part-3-creating-Your-own-color-palettes/)
+* [My color space](https://mycolor.space/)
+* [Colors lol ](https://colors.lol/)
+* [Eggradients](https://www.eggradients.com/)
+* [Palettelist](https://www.palettelist.com/)
 
 
 
 ### How can I use them ? 🤔
 
-#### UI gradients
+
+
+### My color space
+_My color space is awesome page it includes: Spot Palette, Twisted Spot Palette,Classy Palette base on a color generator_:
+
+
+```
+Generic Gradient.
+```
+![page's tab](https://i.ibb.co/gmXZZVv/1.png) 
+```
+There are more gradients and palettes, scroll down. 
+```
+![page's tab](https://i.ibb.co/Kqk1pRv/2.png) 
+
+![page's tab](https://i.ibb.co/vZjs6D2/3.png) 
+
+### Colors lol
+
+_Colors lol focus on giving you the best color palettes, base 3 color combinations_:
+
+
+![page's tab](https://i.ibb.co/8BLk8vD/1.png) 
+```
+There are more palettes, scroll down. 
+```
+![page's tab](https://i.ibb.co/BNGmf3P/2.png) 
+
+
+
+### Palettelist
+
+_One of the best yet, it gives you a bunch of color palette base on the color your select_
+
+![page's tab](https://i.ibb.co/7JQb1QT/1.png) 
+```
+I select a orange color, to create my palette
+```
+![page's tab](https://i.ibb.co/FXfyCtB/2.png) 
+
+```
+click on *NEXT PALETTES* to see another palette, you can download your palette
+```
+![page's tab](https://i.ibb.co/Jd6431g/3.png) 
+
+
+
+### Eggradients
+
+
+_If you like egg this one is your page, there a few os gradients in egg form_
+
+![page's tab](https://i.ibb.co/P95TvDh/1.png) 
+```
+There are more egg gradients, click on next 
+```
+![page's tab](https://i.ibb.co/bKv7qpK/2.png) 
+
+
+
+### UI gradients
 _This page helps us to create gradient colors, in an easy way for our projects.  let see how it works_:
 
 
@@ -51,7 +115,7 @@ When We get onto the pages, We will see all of this.
 ```
 ![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/uigradients/color2.PNG) 
 ```
-Here We can copy grandients colors just clicking on. 
+Here We can copy gradients colors just clicking on. 
 ```
 ![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/uigradients/colors1.PNG) 
 Here We see something like a arrow,  if We click on, We can change the gradient for another one, that's defined in this page. let's click. 
@@ -79,14 +143,14 @@ You may wonder what are those actions.
  **beginning to the left side**
 
 ![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/uigradients/color7.PNG) 
-* Rotate Gradiente
+* Rotate Gradients
 * Get css Code
 * Add   gradients
 * Get a image with the set gradient colors
 ![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/uigradients/css-code.PNG)
 ***********************************************
 
-#### Colorzilla
+### Colorzilla
 ```
  First look at  Colorzilla  
 ```
@@ -123,7 +187,7 @@ After You finish with all,  just copy what You have created.
 
 ![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/colorzilla/Capture7.PNG) 
 
-##### Important !!!!
+### Important !!!!
 ```
 Check the compatibility. 
 ```
@@ -133,7 +197,7 @@ Check the compatibility.
 
 
 
-#### Coolors
+### Coolors
 ```
  First look at  Coolors  
 ```
@@ -143,7 +207,7 @@ Check the compatibility.
 ```
 ![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/coolors/Capture2.PNG) 
 ```
-After clicking this button, We are goint to be redirect to this section. Here There are some colors in a
+After clicking this button, We are going to be redirect to this section. Here There are some colors in a
 pallet, if We see over the first color There is a menu:
 ```
 ![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/coolors/Capture3.PNG) 
@@ -208,7 +272,7 @@ pallet, if We see over the first color There is a menu:
 
 
 
-#### Colorable
+### Colorable
 
 ```
  First look at  Colorable 
@@ -219,7 +283,7 @@ pallet, if We see over the first color There is a menu:
 ![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/colorable/Capture1.PNG) 
 
 ```
- You can modificate text using.
+ You can modify text using.
 ```
 ![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/colorable/Capture2.PNG) 
 * Hue (degree) 0 to 360
@@ -227,7 +291,7 @@ pallet, if We see over the first color There is a menu:
 * Lightness  0.01 to 1
 
 ```
- As the text We can modificate the background.
+ As the text We can modify the background.
 ```
 ![page's tab](https://github.com/ionicdominicana/Awesome-development-tools/blob/main/css-Tools/colors/colorable/Capture3.PNG) 
 
@@ -240,7 +304,7 @@ pallet, if We see over the first color There is a menu:
 ******************************************
 
 
-#### Adobe Color
+### Adobe Color
 
 ```
  First look at  Colorable:
@@ -359,7 +423,7 @@ Please read [CONTRIBUTING.md](https://github.com/ionicdominicana/Dev-sTools//mas
 
 * Tell everyone 📢
 * Bring a 🍺 to somebody from the team. 
-* Do nott forget saying thanks 🤓.
+* Do not forget saying thanks 🤓.
 * etc.
 
 
